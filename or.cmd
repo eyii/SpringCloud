@@ -1,6 +1,6 @@
 git init
-git remote rm origin
-git remote add origin https://github.com/eyii/SpringCloud.git
+git remote rm github
+git remote add github https://github.com/eyii/SpringCloud.git
 
 
 
